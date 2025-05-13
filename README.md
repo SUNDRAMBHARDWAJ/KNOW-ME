@@ -12,11 +12,6 @@ Detail-oriented SDET-I with hands-on experience driving the transition from manu
 * 🧠  I'm learning k6,RestAssured and Newman
 * 🤝  I'm open to collaborating on Android App and web both
 
-<a href="https://www.github.com/SUNDRAMBHARDWAJ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SUNDRAMBHARDWAJ?logo=github&style=for-the-badge&color=0891b2&labelColor=831843" /></a><a href="https://www.x.com/bhardwaj9091" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bhardwaj9091?logo=twitter&style=for-the-badge&color=0891b2&labelColor=831843"
-/></a>
-
 ### Skills
 
 
@@ -35,12 +30,8 @@ src="https://img.shields.io/twitter/follow/bhardwaj9091?logo=twitter&style=for-t
 
 <a href="http://www.github.com/SUNDRAMBHARDWAJ"><img src="https://github-readme-stats.vercel.app/api?username=SUNDRAMBHARDWAJ&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&show_icons=true" alt="SUNDRAMBHARDWAJ's GitHub stats" /></a>
 
-<a href="http://www.github.com/SUNDRAMBHARDWAJ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SUNDRAMBHARDWAJ&stroke=ffffff&background=831843&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/SUNDRAMBHARDWAJ"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SUNDRAMBHARDWAJ&bg_color=831843&color=ffffff&line=0891b2&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/SUNDRAMBHARDWAJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNDRAMBHARDWAJ&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SUNDRAMBHARDWAJ/farmart-automation-testing" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUNDRAMBHARDWAJ&repo=farmart-automation-testing&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/SUNDRAMBHARDWAJ/Automation_Test_Appium" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUNDRAMBHARDWAJ&repo=Automation_Test_Appium&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
