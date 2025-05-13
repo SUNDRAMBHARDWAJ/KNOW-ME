@@ -28,10 +28,10 @@ Detail-oriented SDET-I with hands-on experience driving the transition from manu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SUNDRAMBHARDWAJ"><img src="https://github-readme-stats.vercel.app/api?username=SUNDRAMBHARDWAJ&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&show_icons=true" alt="SUNDRAMBHARDWAJ's GitHub stats" /></a>
+<a href="http://www.github.com/SUNDRAMBHARDWAJ"><img src="https://github-readme-stats.vercel.app/api?username=SUNDRAMBHARDWAJ&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=f97316&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="SUNDRAMBHARDWAJ's GitHub stats" /></a>
 
-<a href="https://github.com/SUNDRAMBHARDWAJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNDRAMBHARDWAJ&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SUNDRAMBHARDWAJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNDRAMBHARDWAJ&langs_count=10&title_color=84cc16&text_color=f97316&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SUNDRAMBHARDWAJ/Automation_Test_Appium" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUNDRAMBHARDWAJ&repo=Automation_Test_Appium&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/SUNDRAMBHARDWAJ/Automation_Test_Appium" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SUNDRAMBHARDWAJ&repo=Automation_Test_Appium&title_color=84cc16&text_color=f97316&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
